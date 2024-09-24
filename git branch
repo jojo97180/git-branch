@@ -16,11 +16,9 @@
           </ul>
         </nav>
     </header>
-<<<<<<< HEAD
-=======
-    <footer>
-        copyright 2024-2025 jo
-    </footer>
->>>>>>> main
+    <main>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, omnis? Unde nostrum ducimus, aut quisquam dignissimos maxime consequuntur, minus dicta cumque aliquid laborum, ut explicabo et omnis sapiente expedita reprehenderit.
+        </p>
+    </main>
 </body>
 </html>
